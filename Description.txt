@@ -1,0 +1,10 @@
+ Retail Analysis Dashboard that Austuralia based :
+- Summary of overall picture of business  and how it performing
+- Region & chain 
+
+Steps : 
+1.Understanding business
+2.Validating data type 
+3.Using Power Query & DAX to add columns for Analysis purpose 
+4. Create realtionship between tables in the model
+5. Change Formate of Calculated columns 
